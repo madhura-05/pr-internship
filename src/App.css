@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login{
+    color: white;
+    padding: 5px;
+}
+.container{
+    width: 700px;
+    height: 300px;
+    display: flex;
+    background-color: rgba(96, 172, 172, 0.89);
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+}
+.button{
+    background-color: antiquewhite;
+    color:black;
+    padding: 15px;
+    width: 200px;
+    margin-bottom: 15px;
+    margin: 10px auto;  
+    display: block;
+}
